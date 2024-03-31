@@ -1,0 +1,11 @@
+.filters .popover {
+	display: none;
+}
+filters .popover:hover {
+	display: block;
+	width: 100%;
+	color: #FAFAFA;
+	border: 1px #DDDDDD;
+	border-radius: 4px;
+}
+
